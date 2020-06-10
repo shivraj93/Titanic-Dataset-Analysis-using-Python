@@ -1,2 +1,2 @@
-# Titanic-Dataset-Analysis-using-Python-
+# Titanic-Dataset-Analysis-using-Python
 Exploratory Data Analysis of Titanic Dataset 
